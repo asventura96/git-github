@@ -1,5 +1,5 @@
 # Desafio de Git/GitHub
-Repositório criado para o Desafio de Projeto sobre Git/GitHub realizado pela Digital Innovation One. Ele tem o intuito de apresentar meu aprendizado em Git/GitHub. Aproveitei a oportunidade deste desafio para colocar alguns aprendizados em JavaScritp que tive Junto à Let's Code.
+Repositório criado para o Desafio de Projeto sobre Git/GitHub realizado pela Digital Innovation One. Ele tem o intuito de apresentar meu aprendizado em Git/GitHub.
 
 
 ## Links Úteis:
